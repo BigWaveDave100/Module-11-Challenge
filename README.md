@@ -51,3 +51,6 @@ Consider how many days elapse on Earth in the time that Mars circles the Sun onc
 Visually estimate the result by plotting the daily minimum temperature of each observation.
 Export the DataFrame to a CSV file. That can be found here: [text](<Starter_Code 8/mars_weather.csv>)
 
+# References:
+
+All code is mine and mine alone. I did reference ChatGPT for help fixing bugs in my code and I used google to help with misc. data searches. 
